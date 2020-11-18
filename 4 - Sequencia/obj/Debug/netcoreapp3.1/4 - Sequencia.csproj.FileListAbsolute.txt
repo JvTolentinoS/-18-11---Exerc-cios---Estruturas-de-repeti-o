@@ -1,0 +1,13 @@
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\-18-11---Exerc-cios---Estruturas-de-repeti-o\4 - Sequencia\bin\Debug\netcoreapp3.1\4 - Sequencia.exe
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\-18-11---Exerc-cios---Estruturas-de-repeti-o\4 - Sequencia\bin\Debug\netcoreapp3.1\4 - Sequencia.deps.json
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\-18-11---Exerc-cios---Estruturas-de-repeti-o\4 - Sequencia\bin\Debug\netcoreapp3.1\4 - Sequencia.runtimeconfig.json
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\-18-11---Exerc-cios---Estruturas-de-repeti-o\4 - Sequencia\bin\Debug\netcoreapp3.1\4 - Sequencia.runtimeconfig.dev.json
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\-18-11---Exerc-cios---Estruturas-de-repeti-o\4 - Sequencia\bin\Debug\netcoreapp3.1\4 - Sequencia.dll
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\-18-11---Exerc-cios---Estruturas-de-repeti-o\4 - Sequencia\bin\Debug\netcoreapp3.1\4 - Sequencia.pdb
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\-18-11---Exerc-cios---Estruturas-de-repeti-o\4 - Sequencia\obj\Debug\netcoreapp3.1\4 - Sequencia.csprojAssemblyReference.cache
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\-18-11---Exerc-cios---Estruturas-de-repeti-o\4 - Sequencia\obj\Debug\netcoreapp3.1\4 - Sequencia.AssemblyInfoInputs.cache
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\-18-11---Exerc-cios---Estruturas-de-repeti-o\4 - Sequencia\obj\Debug\netcoreapp3.1\4 - Sequencia.AssemblyInfo.cs
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\-18-11---Exerc-cios---Estruturas-de-repeti-o\4 - Sequencia\obj\Debug\netcoreapp3.1\4 - Sequencia.csproj.CoreCompileInputs.cache
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\-18-11---Exerc-cios---Estruturas-de-repeti-o\4 - Sequencia\obj\Debug\netcoreapp3.1\4 - Sequencia.dll
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\-18-11---Exerc-cios---Estruturas-de-repeti-o\4 - Sequencia\obj\Debug\netcoreapp3.1\4 - Sequencia.pdb
+C:\Users\OttoHaru\Desktop\SENAI\Projeto\-18-11---Exerc-cios---Estruturas-de-repeti-o\4 - Sequencia\obj\Debug\netcoreapp3.1\4 - Sequencia.genruntimeconfig.cache
